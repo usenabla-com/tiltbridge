@@ -6,7 +6,7 @@
                 
 #### Bring WiFi to your Tilt Hydrometer
 
-TiltBridge is a single-component solution for bridging the gap between your Tilt Hydrometer's Bluetooth signal and the internet. Eliminate the need for a spare phone/tablet to live next to your fermenter without losing the ability to log your gravity data.
+TiltBridge is a single-component solution for bridging the gap between your Tilt Hydrometer's Bluetooth signal and the internet. Eliminate the need for a spare phone/tablet to live next to your fermenter without losing the ability to log your gravity data. Test Checks
 
 #### Log to the Cloud
 
